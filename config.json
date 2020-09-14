@@ -1,0 +1,37 @@
+{
+	"server": {
+		"enter_id": {
+			"name": "jccc",
+			"variables": {
+				"color": "#fff133"
+			}
+		},
+		"enter_id": {
+			"name": "main",
+			"variables": {
+				"color": "#c70808"
+			}
+		},
+		"727116604235710485": {
+			"name": "unsc",
+			"variables": {
+				"color": "#00a0e0"
+			}
+		},
+		"726276891425767547": {
+			"name": "unhrc",
+			"variables": {
+				"color": "#2e4f8d"
+			}
+		},
+		"728248104461140029": {
+			"name": "ecosoc",
+			"variables": {
+				"color": "#FF0000"
+			}
+		}
+	},
+	"global": {
+		"activity": "with Delegates. | botprefix for prefix | help for commands."
+	}
+}
