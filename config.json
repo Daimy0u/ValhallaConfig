@@ -1,30 +1,30 @@
 {
 	"server": {
-		"enter_id": {
-			"name": "jccc",
+		"758038655003525170": {
+			"name": "jcc",
 			"variables": {
-				"color": "#fff133"
+				"color": "#4c4d4f"
 			}
 		},
-		"enter_id": {
+		"749335450027819018": {
 			"name": "main",
 			"variables": {
-				"color": "#c70808"
+				"color": "#e8cd5f"
 			}
 		},
-		"727116604235710485": {
+		"752527926175465522": {
 			"name": "unsc",
 			"variables": {
-				"color": "#00a0e0"
+				"color": "#949492"
 			}
 		},
-		"726276891425767547": {
+		"752048722208227410": {
 			"name": "unhrc",
 			"variables": {
-				"color": "#2e4f8d"
+				"color": "#c9a46d"
 			}
 		},
-		"728248104461140029": {
+		"enter_id": {
 			"name": "ecosoc",
 			"variables": {
 				"color": "#FF0000"
@@ -35,3 +35,4 @@
 		"activity": "with Delegates. | botprefix for prefix | help for commands."
 	}
 }
+
